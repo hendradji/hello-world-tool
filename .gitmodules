@@ -1,0 +1,3 @@
+[submodule "src/hello-world"]
+	path = src/hello-world
+	url = C:/FEV/hello-world
