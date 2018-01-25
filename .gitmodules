@@ -4,3 +4,6 @@
 [submodule "src/hello-world-2"]
 	path = src/hello-world-2
 	url = https://github.com/hendradji/hello-world
+[submodule "launch/hello-world"]
+	path = launch/hello-world
+	url = https://github.com/hendradji/hello-world
